@@ -1,0 +1,32 @@
+{
+  "name": "tp-mongodb-film",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDadomo/mongodbPascal.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MDadomo/mongodbPascal/issues"
+  },
+  "homepage": "https://github.com/MDadomo/mongodbPascal#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.15"
+  }
+}
